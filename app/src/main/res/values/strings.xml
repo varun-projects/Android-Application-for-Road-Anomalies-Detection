@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Safetnets_with_orientation_corectio</string>
+    <string-array name="planets_array">
+    <item>Mercury</item>
+    <item>Venus</item>
+    <item>Earth</item>
+    <item>Mars</item>
+    <item>Jupiter</item>
+    <item>Saturn</item>
+    <item>Uranus</item>
+    <item>Neptune</item>
+</string-array>
+
+    <string-array name="planets_array1">
+        <item>Mercury1</item>
+        <item>Venus1</item>
+        <item>Earth1</item>
+        <item>Mars1</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="vehicle_array">
+        <item>vehicle1</item>
+        <item>vehicle2</item>
+        <item>vehicle3</item>
+        <item>vehicle4</item>
+        <item>vehicle5</item>
+        <item>vehicle6</item>
+        <item>vehicle7</item>
+        <item>vehicle8</item>
+    </string-array>
+
+    <string-array name="phoneloc_array">
+        <item>CDH</item>
+        <item>CWH</item>
+        <item>LDH</item>
+        <item>LWH</item>
+    </string-array>
+
+
+    <string-array name="encounter_array">
+        <item>PS</item>
+        <item>DS</item>
+        <item>BW</item>
+        <item>Mn</item>
+    </string-array>
+
+    <string-array name="road_condition_array">
+        <item>Pothole</item>
+        <item>Crack</item>
+        <item>Speed Bump</item>
+        <item>Bump</item>
+        <item>Manholes</item>
+        <item>Icy-patches</item>
+        <item>Other events</item>
+        <item>Expansion Gaps</item>
+        <item>Rail-road</item>
+        <item>Misc Rough Road</item>
+        <item>Paved Road</item>
+        <item>Dirt Road</item>
+        <item>Swerve Change  X</item>
+        <item>Swerve Change  Y </item>
+        <item>Door-Closing</item>
+        <item>Right turn Street turn</item>
+        <item>Left turn Street turn</item>
+        <item>Hard-break</item>
+    </string-array>
+
+    <string-array name="speed_array">
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+    </string-array>
+
+
+</resources>
